@@ -1,0 +1,14 @@
+D:\ДЗ Ентин\PracticeTime3\PracticeTime3\obj\Debug\netcoreapp3.1\PracticeTime3.csproj.AssemblyReference.cache
+D:\ДЗ Ентин\PracticeTime3\PracticeTime3\obj\Debug\netcoreapp3.1\PracticeTime3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ Ентин\PracticeTime3\PracticeTime3\obj\Debug\netcoreapp3.1\PracticeTime3.AssemblyInfoInputs.cache
+D:\ДЗ Ентин\PracticeTime3\PracticeTime3\obj\Debug\netcoreapp3.1\PracticeTime3.AssemblyInfo.cs
+D:\ДЗ Ентин\PracticeTime3\PracticeTime3\obj\Debug\netcoreapp3.1\PracticeTime3.csproj.CoreCompileInputs.cache
+D:\ДЗ Ентин\PracticeTime3\PracticeTime3\bin\Debug\netcoreapp3.1\PracticeTime3.exe
+D:\ДЗ Ентин\PracticeTime3\PracticeTime3\bin\Debug\netcoreapp3.1\PracticeTime3.deps.json
+D:\ДЗ Ентин\PracticeTime3\PracticeTime3\bin\Debug\netcoreapp3.1\PracticeTime3.runtimeconfig.json
+D:\ДЗ Ентин\PracticeTime3\PracticeTime3\bin\Debug\netcoreapp3.1\PracticeTime3.runtimeconfig.dev.json
+D:\ДЗ Ентин\PracticeTime3\PracticeTime3\bin\Debug\netcoreapp3.1\PracticeTime3.dll
+D:\ДЗ Ентин\PracticeTime3\PracticeTime3\bin\Debug\netcoreapp3.1\PracticeTime3.pdb
+D:\ДЗ Ентин\PracticeTime3\PracticeTime3\obj\Debug\netcoreapp3.1\PracticeTime3.dll
+D:\ДЗ Ентин\PracticeTime3\PracticeTime3\obj\Debug\netcoreapp3.1\PracticeTime3.pdb
+D:\ДЗ Ентин\PracticeTime3\PracticeTime3\obj\Debug\netcoreapp3.1\PracticeTime3.genruntimeconfig.cache
